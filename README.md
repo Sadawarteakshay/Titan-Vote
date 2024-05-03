@@ -1,6 +1,4 @@
-# TitanVote 
-
-# Final Blockchain Project 
+# TitanVote - Final Blockchain Project 
 
 # Project Repository
 
