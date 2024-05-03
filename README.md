@@ -31,8 +31,8 @@ The project will open in the browser and metamask will ask you to select an acco
 1. The User Interface(UI) improvements, Color, Buttons, Images.
 2. Adding Candidates to Election/Campaign.
 3. Voting for Candidates.
-4. Start an Election/Campaign.
-5. End and Election/Campaign.
+4. Start an Elections/Campaigns.
+5. End and Elections/Campaigns.
 6. Multiple Device Compatability,
 7. Create Account for voter.
 8.  
