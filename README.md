@@ -24,15 +24,17 @@
 4. Migrate the contracts using `truffle migrate`
 5. Start the server using `npm start`
 
-The project will open in the browser and metamask will ask you to select an account.
+The project will open in the browser, and metamask will ask you to select an account.
 
 ## Improvements to the TitanVote Project
 
 1. The User Interface(UI) improvements, Color, Buttons, Images.
-2. Adding Candidates to Election/Campaign.
+2. Adding Candidates to Elections.
 3. Voting for Candidates.
-4. Start an Elections/Campaigns.
-5. End and Elections/Campaigns.
-6. Multiple Device Compatability,
-7. Create Account for voter.
-8.  
+4. Start an Elections.
+6. End an Elections.
+7. Multiple Device Compatability.
+8. Create an Account for voters.
+9. Dedicated Admin Panel Portal.
+10. Votes can't be cast without authenticating your blockchain identity.
+11. Election results for all candidates displayed.
